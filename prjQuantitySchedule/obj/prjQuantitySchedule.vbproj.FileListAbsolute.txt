@@ -1,0 +1,12 @@
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\bin\Debug\prjQuantitySchedule.exe
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\bin\Debug\prjQuantitySchedule.pdb
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\bin\Debug\prjQuantitySchedule.xml
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.Resources.resources
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.vbproj.GenerateResource.Cache
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.exe
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.xml
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.pdb
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.frmAddItem.resources
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.frmMain.resources
+C:\Users\MUZAFFAR\Documents\Visual Studio 2005\Projects\prjQuantitySchedule\prjQuantitySchedule\obj\Debug\prjQuantitySchedule.vbproj.ResolveComReference.cache
